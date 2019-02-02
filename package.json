@@ -1,0 +1,23 @@
+{
+  "name": "solidity_flattener",
+  "version": "1.0.0",
+  "description": "Puts all dependancies into a single file",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuwrldnf8r/solidityFlattener.git"
+  },
+  "keywords": [
+    "solidity",
+    "flattener"
+  ],
+  "author": "Gavin Marshall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuwrldnf8r/solidityFlattener/issues"
+  },
+  "homepage": "https://github.com/nuwrldnf8r/solidityFlattener#readme"
+}
